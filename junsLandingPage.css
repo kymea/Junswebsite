@@ -1,0 +1,46 @@
+.list3{
+margin-bottom: 8px;
+background-color: lightgrey;
+margin-top: 25px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 20px;
+padding-right: 20px;
+border: 1px rgb(0, 0, 0);
+border-radius: 10px;
+}
+
+header{
+  Padding: 200px 0;
+  background-image: url("https://healthcare.ascension.org/-/media/project/ascension/healthcare/legacy/markets/michigan/facility-images/mi_ascensionprovidence_southfield_hospital_16001wninemilerd_header.jpg");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+body { 
+color: 4a4a4a;
+}
+
+
+h1{
+  text-align: right;
+  color: black;
+  
+}
+
+#professpic{
+
+  border-radius: 50px;
+  size: 300px 300px;
+  align-items: center;
+}
+
+.list1{
+  text-align: right;
+  list-style-type:none;
+}
+
+.intro{
+  text-align: right;
+}
